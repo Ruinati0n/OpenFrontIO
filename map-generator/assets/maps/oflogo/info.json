@@ -1,0 +1,25 @@
+{
+  "name": "oflogo",
+  "nations": [
+    {
+      "coordinates": [116, 143],
+      "flag": "de",
+      "name": "The Blitz"
+    },
+    {
+      "coordinates": [583, 144],
+      "flag": "gb",
+      "name": "The E Empire"
+    },
+    {
+      "coordinates": [1085, 144],
+      "flag": "fr",
+      "name": "The R Republic"
+    },
+    {
+      "coordinates": [1559, 143],
+      "flag": "ru",
+      "name": "The T Tsardom"
+    }
+  ]
+}
